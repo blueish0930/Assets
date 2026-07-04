@@ -20,6 +20,18 @@ $RECYCLE.BIN/
 *.bak
 *~
 
+# Local build artifacts
+.build/
+build/
+
+# Blender remote asset library generated files
+blender/assets/_asset-library-meta.json
+blender/assets/_v1/
+blender/assets/**/*_thumbnails/
+
+# Local machine configuration
+tools/blender_remote_asset/.env
+
 # IDE
 .vs/
 .vscode/
