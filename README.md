@@ -1,2 +1,2 @@
 # Blueish-Assets
-A library about blender and houdini
+Various useful node assets for blender and houdini
