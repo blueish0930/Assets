@@ -1,0 +1,18 @@
+// This file is part of the Houdini Environment Configuration.
+// It defines the settings for the "blueish" package.
+// The package is enabled and adds a custom OTL scan path to Houdini's environment.
+// -
+// -
+// -
+// Put this json file under: C:\Users\username\Documents\houdini21.0\packages
+// Note: Change the HOUDINI_OTLSCAN_PATH to your own path ! ! ! (keep the ';&' at the end of the path)
+// use '/' not '\' in the path.
+{
+    "package_name": "blueish",
+    "enable": true,
+    "env": [
+        {
+            "HOUDINI_OTLSCAN_PATH": "E:/Git/houdini/otls;&"
+        }
+    ]
+}
