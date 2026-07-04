@@ -1,2 +1,2 @@
 # Blueish-Assets
-Including some blender and houdini node presets
+A library about blender and houdini
