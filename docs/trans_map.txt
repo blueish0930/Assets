@@ -1,0 +1,528 @@
+(2D)Recursive_Subdivision|||(2D)Recursive_细分
+(3D)Recursive_Subdivision|||(3D)Recursive_细分
+1D Array(1D阵列)|||1D 阵列(1D阵列)
+2D Array(2D阵列)|||2D 阵列(2D阵列)
+2D Remesh(网格重构)|||2D 重网格(网格重构)
+2x2 Diagonalize Symmetric|||2x2 对角化 Symmetric
+2x2 Matrices Multiply|||2x2 Matrices 乘法
+2x2 Matrix Add|||2x2 矩阵 加法
+2x2 Matrix Scale|||2x2 矩阵 鳞片
+2x2 Outerproduct|||2x2 外积
+2x2 Trace|||2x2 迹
+3 Planes Intersection Point|||3 平面s 相交 点
+3 Planes Intersection Point(三平面求交)|||3 平面s 相交 点(三平面求交)
+3D Array(3D阵列)|||3D 阵列(3D阵列)
+3D Circumcircle|||3D 外接圆
+3D Fill Curve|||3D 填充 曲线工具包
+3D Incircle|||3D 内切圆
+3D Recursive Subdivision(3D 递归细分)|||3D Recursive 细分(3D 递归细分)
+3D Simplex Noise|||3D Simplex 噪点
+3x3 1-Norm|||3x3 1-范数
+3x3 Adjugate Matrix|||3x3 伴随 矩阵
+3x3 Axis Rotation Matrix|||3x3 轴 旋转 矩阵
+3x3 Combine Linear Transform|||3x3 组合 线性 变换
+3x3 Diag to Matrix|||3x3 Diag to 矩阵
+3x3 Diagonalize Symmetric|||3x3 对角化 Symmetric
+3x3 Frobenius Norm|||3x3 F范数 范数
+3x3 Ident Matrix|||3x3 Ident 矩阵
+3x3 Infinity-Norm|||3x3 Infinity-范数
+3x3 Invert Matrix|||3x3 反转 矩阵
+3x3 Linear Transform|||3x3 线性 变换
+3x3 Matrices Multiply|||3x3 Matrices 乘法
+3x3 Matrix Add|||3x3 矩阵 加法
+3x3 Matrix Scale|||3x3 矩阵 鳞片
+3x3 Matrix Trace|||3x3 矩阵 迹
+3x3 Matrix to Diag|||3x3 矩阵 to Diag
+3x3 Matrix to Vectors|||3x3 矩阵 to 向量s
+3x3 Max-Norm|||3x3 Max-范数
+3x3 Multiply Matrices|||3x3 乘法 Matrices
+3x3 Outerproduct|||3x3 外积
+3x3 Polar Decomposition|||3x3 极坐标 分解
+3x3 Pseudo-Inverse|||3x3 伪-逆矩阵
+3x3 Singular Value Decomposition|||3x3 Singular 值 分解
+3x3 Spectral-Norm|||3x3 谱范数-范数
+3x3 Transpose Matrix|||3x3 转置 矩阵
+3x3 Vectors to Matrix|||3x3 向量s to 矩阵
+3x3 to 4x4 Matrix|||3x3 to 4x4 矩阵
+4D Simplex Noise|||4D Simplex 噪点
+4x4 Combine Transform|||4x4 组合 变换
+4x4 Determinant|||4x4 行列式
+4x4 Invert Matrix|||4x4 反转 矩阵
+4x4 Multiply Matrices|||4x4 乘法 Matrices
+4x4 Transform|||4x4 变换
+4x4 Transpose Matrix|||4x4 转置 矩阵
+AO-Edge|||AO-边缘
+ASCII|||ASCII艺术
+Arc_SDF|||Arc_有向距离场
+Attribute Delete|||属性 删除
+Attribute Delete(属性删除)|||属性 删除(属性删除)
+Auto UV Seam|||Auto UV坐标 接缝
+Bark|||树皮
+Barnsley_Tree|||Barnsley_树形
+Bend(弯曲)|||弯曲(弯曲)
+Bevel 2D Curve(倒角2D曲线)|||倒角 2D 曲线工具包(倒角2D曲线)
+Bezier(Low)_SDF|||Bezier(Low)_有向距离场
+Bezier_SDF|||Bezier_有向距离场
+Billboard|||广告牌
+Bitangent Noise|||Bitangent 噪点
+Blend Normal(Angle)|||Blend 法线(角度)
+Blend Normal(Euler)|||Blend 法线(欧拉数)
+Blend Normal(RNM)|||Blend 法线(RNM)
+Blend Normal(UDN)|||Blend 法线(UDN)
+Blend Normal(White-Out)|||Blend 法线(白-Out)
+Blobby_Cross_SDF|||Blobby_十字_有向距离场
+Blues|||蓝s
+Bone Capture|||骨骼 捕获
+Bone Deform|||骨骼 变形
+Boolean Curve|||布尔运算 曲线工具包
+Boolean(Custom)|||布尔运算(Custom)
+Boundary Edge(边界线)|||边界 边缘(边界线)
+Box Blur|||Box 模糊
+Box_SDF|||Box_有向距离场
+Broken Glass|||Broken 玻璃
+Bump to Normal|||Bump to 法线
+Butterfly_fractal|||蝴蝶细分_fractal
+CRT|||CRT显示器
+Camera Culling(摄像机剔除)|||相机 Culling(摄像机剔除)
+Camera Facing Vector|||相机 系数ing 向量
+Camera Location|||相机 Location
+Candy_Tile|||Candy_瓦
+Capsule(胶囊体)|||胶囊(胶囊体)
+Cardioid(心脏线)|||心脏线(心脏线)
+Cartesian to Spherical|||笛卡尔 to 球面
+Casted Plane Transparent|||释放ed 平面 Transparent
+Catenary|||悬链线
+Catenary(悬链线)|||悬链线(悬链线)
+Cel Shader|||赛璐璐 着色器
+Chrome(镀铬金属)|||铬(镀铬金属)
+Circle|||圆形
+Circle Packing(打包圆)|||圆形 打包(打包圆)
+Circle_And_Square_Tile|||圆形_And_方形_瓦
+Circle_Wave_SDF|||圆形_波浪_有向距离场
+Circular Array(环形阵列)|||Circular 阵列(环形阵列)
+Circular Blur|||Circular 模糊
+Circular Packing(环形实例打包)|||Circular 打包(环形实例打包)
+Circular_Tiling|||Circular_铺砌
+CircumSphere|||外接球
+Circumcircle From 3 Points(三点确定外切圆)|||外接圆 From 3 点s(三点确定外切圆)
+Closest Point Pair|||Closest 点 Pair
+Closest Point Pair(最短距离点对)|||Closest 点 Pair(最短距离点对)
+Cluster Points(点群簇)|||聚类 点s(点群簇)
+Collision Detection|||碰撞 Detection
+Color_Variation|||颜色_Variation
+Combine Module Infos|||组合 Module Infos
+Comic|||漫画
+Compress Bone Weights|||Compress 骨骼 权重s
+Cone Direction|||锥体 Direction
+Consistent Curve Orientation|||Consistent 曲线工具包 Orientation
+Cool_S_SDF|||Cool_S_有向距离场
+Coons Patch|||孔斯 面片
+Coons Patch(库恩斯面片)|||孔斯 面片(库恩斯面片)
+Coordinate Detect|||坐标 Detect
+Coordinate Plane|||坐标 平面
+Coordinate System(坐标系)|||坐标 System(坐标系)
+Cotangent Laplacian(余切拉普拉斯)|||Cotangent 拉普拉斯(余切拉普拉斯)
+Create Third Orthographic Vector|||Create Third Orthographic 向量
+Cross Hatch|||十字 排线
+Cross Hatching|||十字 排线
+Cross to Matrix|||十字 to 矩阵
+Cross_SDF|||十字_有向距离场
+Crystal|||水晶
+Cube Deform(立方体形变)|||立方体 变形(立方体形变)
+Cube Mask|||立方体 遮罩
+Cube_Pattern_Tile|||立方体_图案_瓦
+Cubic_Julia|||Cubic_朱利亚
+Curl Noise Force|||旋度 噪点 力
+Curvature|||曲率
+Curvature(曲率)|||曲率(曲率)
+Curve Angle(曲线角度)|||曲线工具包 角度(曲线角度)
+Curve Array(曲线阵列)|||曲线工具包 阵列(曲线阵列)
+Curve Constrained Sphere Packing|||曲线工具包 Constrained 球体 打包
+Curve Constrained Sphere Packing(曲线约束的球体填充)|||曲线工具包 Constrained 球体 打包(曲线约束的球体填充)
+Curve Deform|||曲线工具包 变形
+Curve Force|||曲线工具包 力
+Curve Info|||曲线工具包 Info
+Curve Instance Packing(曲线实例打包)|||曲线工具包 实例 打包(曲线实例打包)
+Curve Intersections|||曲线工具包 相交s
+Curve Intersections(曲线交点)|||曲线工具包 相交s(曲线交点)
+Curve Loop Edge(曲线循环边)|||曲线工具包 循环细分 边缘(曲线循环边)
+Curve Normal Length(曲线法向长度)|||曲线工具包 法线 长度(曲线法向长度)
+Curve Rolling|||曲线工具包 Rolling
+Curve Rolling(曲线卷曲)|||曲线工具包 Rolling(曲线卷曲)
+Curve Trail|||曲线工具包 拖尾
+Curved_Polygon|||曲线工具包d_Polygon
+Custom Mask|||Custom 遮罩
+Custom Voronoi Texture(自定义沃罗诺伊纹理)|||Custom 沃罗诺伊图 纹理(自定义沃罗诺伊纹理)
+Cut_Disk_SDF|||切割_圆盘_有向距离场
+Dash Line(虚线)|||冲刺 线条(虚线)
+Debug Float|||Debug 浮点
+Delete By Age(生命周期)|||删除 By Age(生命周期)
+Dense Linear Solver|||稠密 线性 求解器
+Derive Normal Z|||Derive 法线 深度
+Diamond_Corner_Tile|||菱形_角点_瓦
+Diamond_Tile|||菱形_瓦
+Dihedral|||二面角
+Dither Dot|||抖动 点阵
+Divergence|||散度
+Drag|||阻力
+Dragon Fractal(龙分形)|||龙形 分形(龙分形)
+Droste_Zoom|||奇异博士oste_深度oom
+Edge Bundling|||边缘 Bundling
+Edge Bundling(边聚集)|||边缘 Bundling(边聚集)
+Edge Collapse|||边缘 坍缩
+Edge Flip|||边缘 翻转
+Edge Length|||边缘 长度
+Edge Loop ID|||边缘 循环细分 编号
+Edge Loop Selection|||边缘 循环细分 选择
+Edge Loop Selection(循环边选择)|||边缘 循环细分 选择(循环边选择)
+Edge Ring ID|||边缘 环 编号
+Edge Split|||边缘 分裂
+Edges of Face(面的边)|||边缘s of 面(面的边)
+Egg_SDF|||蛋形_有向距离场
+Elastic Sphere(弹力球)|||弹性 球体(弹力球)
+Ellipse_SDF|||椭圆_有向距离场
+Equilateral_Triangle_SDF|||Equilateral_三角形_有向距离场
+Even Curve Segments(均分曲线)|||Even 曲线工具包 弓形s(均分曲线)
+Extract Isoline(提取等值线)|||Extract 等值线(提取等值线)
+Extract Transform|||Extract 变换
+Extrude Along Curve(沿曲线挤出)|||挤出 Along 曲线工具包(沿曲线挤出)
+Face Corner Angle|||面 角点 角度
+Face Corner Info|||面 角点 Info
+Face Extrusion(面挤出)|||面 Extrusion(面挤出)
+Face Loop Selection|||面 循环细分 选择
+Face Loop Selection(循环面选择)|||面 循环细分 选择(循环面选择)
+Face Sprial(螺旋面)|||面 Sprial(螺旋面)
+Face Stripes Group(面带组)|||面 Stripes 组(面带组)
+Faces of Edge(边的面)|||面s of 边缘(边的面)
+Faces of Vertex(顶点的面)|||面s of 顶点(顶点的面)
+Fiber_Tile|||Fiber_瓦
+Fill 3D Curve(填充3D曲线)|||填充 3D 曲线工具包(填充3D曲线)
+Fire Outline|||火焰 描边
+FlagStone_Tile|||Flag石头_瓦
+Flipbook|||翻转book
+Floor_Brick_Tile|||地板_砖_瓦
+Floor_Brick_Tile_V2|||地板_砖_瓦_V2
+Fonts_SDF|||Fonts_有向距离场
+Fourier Transform|||傅里叶 变换
+Fourier Transform Drawing(傅里叶变换作图)|||傅里叶 变换 绘图(傅里叶变换作图)
+Frame Blend Flipbook|||帧 Blend 翻转book
+Frozen Glass|||Frozen 玻璃
+Gaussain Blur|||高斯ain 模糊
+Generate Paricles|||生成 Paricles
+Glass|||玻璃
+Glitch|||故障
+Gradient|||梯度
+Gradient of Scalar Field(标量场梯度)|||梯度 of 标量 场(标量场梯度)
+Graph Color|||图 颜色
+Graph MIS|||图 最大独立集
+Gravity Force|||重力 力
+HackWave|||Hack波浪
+Hair|||毛发
+Hair Anisotropy|||毛发 各向异性
+Hair Mesh to Curve|||毛发 网格过滤器 to 曲线工具包
+Hair Mesh to Curve(头发网格转曲线)|||毛发 网格过滤器 to 曲线工具包(头发网格转曲线)
+Half Tone|||半调 色调
+Heart(心形)|||心形(心形)
+Heart_SDF|||心形_有向距离场
+Heart_Shape|||心形_Shape
+Heart_Wave|||心形_波浪
+Heat Geodesic|||热 测地线
+Helicoidal Surface(螺旋面)|||Helicoidal 曲面(螺旋面)
+Herringbone_Pattern|||人字形_图案
+Hexagon|||六边形
+Hexagon(六边形)|||六边形(六边形)
+Hexagon_Tile|||六边形_瓦
+Hexagram_SDF|||Hexagram_有向距离场
+Homogeneous Disk(均匀圆盘)|||Homogeneous 圆盘(均匀圆盘)
+Homogeneous Sphere(均匀球)|||Homogeneous 球体(均匀球)
+HorseShoe_SDF|||HorseShoe_有向距离场
+Image to ASCII(图像转字符串)|||图像 to ASCII艺术(图像转字符串)
+Image_Rotation|||图像_旋转
+Implicit Surface|||隐式 曲面
+InSphere|||内切球
+Incircle From 3 Points(三点确定内切圆)|||内切圆 From 3 点s(三点确定内切圆)
+Index_Switch|||索引_切换
+Initialize Particles|||Initialize 粒子s
+Insert Face(内插面)|||Insert 面(内插面)
+Integer(Custom)|||整数(Custom)
+Interior Mapping|||内部映射 映射
+Intersection Analysis|||相交 Analysis
+Intersection Stitch|||相交 Stitch
+Inverse Kinematics(反向运动学)|||逆矩阵 运动学s(反向运动学)
+Inverse Transform Matrix|||逆矩阵 变换 矩阵
+Is Edge Boundary|||Is 边缘 边界
+Is Edge Manifold|||Is 边缘 流形
+Is UV Seam|||Is UV坐标 接缝
+Isosceles_Trapezoid_SDF|||Isosceles_梯形_有向距离场
+Isosceles_Triangle_SDF|||Isosceles_三角形_有向距离场
+Iterative Closet Point2|||Iterative Closet 点2
+Joint Mask|||关节 遮罩
+Julia_Set|||朱利亚_设置
+Julia_Sine|||朱利亚_Sine
+Koch Line(科赫线)|||科赫 线条(科赫线)
+Koch Snowflake(科赫雪花)|||科赫 雪flake(科赫雪花)
+LED_Screen|||LED_屏幕
+LS Fitting|||LS 拟合
+Lambda_Fractal|||Lambda_分形
+Laplacian|||拉普拉斯
+Least Squares Plane Fitting(最小二乘平面拟合)|||最小二乘 平面 拟合(最小二乘平面拟合)
+Lemon_Piece|||Lemon_扇形ce
+Limit Force|||限制 力
+Line Attaction Force|||线条 Attaction 力
+Line Drawing(乱线画)|||线条 绘图(乱线画)
+Line Style|||线条 Style
+Loft Curve|||放样 曲线工具包
+Loft Curve(曲线放样)|||放样 曲线工具包(曲线放样)
+Loop Subdivision|||循环细分 细分
+Loop Subdivision(Loop细分)|||循环细分 细分(循环细分细分)
+Magma|||岩浆
+Mandelbrot|||曼德博
+Marching Cube|||移动立方体 立方体
+Marching Square|||移动立方体 方形
+Marching Triangle|||移动立方体 三角形
+Marek_Dragon|||Marek_龙形
+Matrices Multiply|||Matrices 乘法
+Matrix Add|||矩阵 加法
+Matrix Scale|||矩阵 鳞片
+Matrix to Vectors|||矩阵 to 向量s
+Measure Centroid|||Measure 质心
+Measure Centroid(测量质心)|||Measure 质心(测量质心)
+Measure Volume|||Measure 体积
+Measure Volume(测量体积)|||Measure 体积(测量体积)
+Mesh Ambient Occlusion(网格AO)|||网格过滤器 环境光 遮蔽(网格AO)
+Mesh Clip(快速网格裁切)|||网格过滤器 Clip(快速网格裁切)
+Mesh Folding(网格折叠)|||网格过滤器 Folding(网格折叠)
+Mesh Puzzle(网格拼图)|||网格过滤器 Puzzle(网格拼图)
+Mesh SDF(网格距离场)|||网格过滤器 有向距离场(网格距离场)
+Mesh Smooth|||网格过滤器 平滑
+Mesh Thickness|||网格过滤器 Thickness
+Mesh Thickness(网格厚度)|||网格过滤器 Thickness(网格厚度)
+Mesh Velocity|||网格过滤器 速度
+Metal|||金属
+Metal_Floor_Tile1|||金属_地板_瓦1
+Metal_Floor_Tile2|||金属_地板_瓦2
+Minimum Bounding Sphere(最小包围球)|||最小 包围 球体(最小包围球)
+Minimum Spanning Tree|||最小 Spanning 树形
+Mobius Transform(莫比乌斯变换)|||Mobius 变换(莫比乌斯变换)
+Module Info Piece|||Module Info 扇形ce
+Moon_SDF|||月亮_有向距离场
+Motion Vector Flipbook|||Motion 向量 翻转book
+N Joint(N连接头)|||N 关节(N连接头)
+N_Polygon_SDF|||N_Polygon_有向距离场
+Nearest Point Connection(最近点连线)|||最近 点 Connection(最近点连线)
+Newton_Fractal|||Newton_分形
+Noise|||噪点
+Normal Distribution(正态分布)|||法线 Distribution(正态分布)
+Normal Selection|||法线 选择
+Object Force|||物体 力
+Object Transform|||物体 变换
+Ocean|||海洋
+Orbit Force|||轨道 力
+Order in Field(域内次序)|||Order in 场(域内次序)
+Ordered Dithering|||Ordered 抖动ing
+Ordered Dithering(有序抖动)|||Ordered 抖动ing(有序抖动)
+Oriented Bounding Box(有向包围盒)|||Oriented 包围 Box(有向包围盒)
+Ornament_Tile|||装饰_瓦
+Ornament_Tile2|||装饰_瓦2
+Ornament_Tile3|||装饰_瓦3
+Ornament_Tile4|||装饰_瓦4
+Ornament_Tile5|||装饰_瓦5
+Ornament_Tile6|||装饰_瓦6
+Ornament_Tile7|||装饰_瓦7
+Outerproduct|||外积
+Outline Edge|||描边 边缘
+Outline(轮廓线)|||描边(轮廓线)
+PCA|||主成分分析
+Paisley_Tile|||Paisley_瓦
+Parabola_SDF|||抛物线_有向距离场
+Parabola_Segment_SDF|||抛物线_弓形_有向距离场
+Parallax Mapping|||视差 映射
+Parallax Occlusion Mapping|||视差 遮蔽 映射
+Parallelogram_SDF|||平行四边形_有向距离场
+Particle Attribute|||粒子 属性
+Particle Children|||粒子 Children
+Particle Collision|||粒子 碰撞
+Particle Info|||粒子 Info
+Particle Solver|||粒子 求解器
+Particle Trail|||粒子 拖尾
+Path Deform(路径形变)|||路径 变形(路径形变)
+Pattern_Tile1|||图案_瓦1
+Paving_Block_Tiles|||Paving_Block_瓦s
+Phoenix_Julia|||Phoenix_朱利亚
+Phyllotaxis Disk(叶序圆盘)|||叶序 圆盘(叶序圆盘)
+Phyllotaxis Profile Surface(曲线叶序分布)|||叶序 Profile 曲面(曲线叶序分布)
+Phyllotaxis Sphere(叶序球)|||叶序 球体(叶序球)
+Pie_SDF|||扇形_有向距离场
+Pixel Sorting|||Pixel 排序ing
+Plasma|||等离子
+Point Attraction Force|||点 Attraction 力
+Poly Cut|||Poly 切割
+Polygon_SDF|||Polygon_有向距离场
+Principal Curvature|||Principal 曲率
+Principal Curvature(主曲率)|||Principal 曲率(主曲率)
+Project to Tangent Plane|||投影 to 切线 平面
+Purple Sunset|||Purple 日落
+QEM Mesh Simplification|||QEM 网格过滤器 Simplification
+Quadratic_Circle_SDF|||Quadratic_圆形_有向距离场
+Quaternion to Matrix|||四元数 to 矩阵
+RBF Interpolate|||径向基函数 插值
+Radial Blur|||Radial 模糊
+Radial-Noise|||Radial-噪点
+Radial-Segments|||Radial-弓形s
+Radial-Voronoi|||Radial-沃罗诺伊图
+Rainbow|||雨bow
+Rainy Window|||雨y 窗口
+Random Points(随机点)|||随机 点s(随机点)
+Random_Tile_Pattern|||随机_瓦_图案
+Raymarching|||射线marching
+Reaction Diffusion(反应扩散)|||反应 扩散(反应扩散)
+Recalculate Normals|||Recalculate 法线s
+Recompute Transform|||Recompute 变换
+Recursive Cube Packing(递归立方体打包)|||Recursive 立方体 打包(递归立方体打包)
+Recursive Subdivision(递归细分)|||Recursive 细分(递归细分)
+Regular_Hexagon_SDF|||Regular_六边形_有向距离场
+Regular_Octogon_SDF|||Regular_Octogon_有向距离场
+Regular_Pentagon_SDF|||Regular_五边形_有向距离场
+Regular_Star_SDF|||Regular_星形_有向距离场
+Relief Parallax Mapping|||浮雕 视差 映射
+Remesh|||重网格
+Render Particles|||渲染 粒子s
+Render_Mask|||渲染_遮罩
+Rhombus|||菱形
+Rhombus_SDF|||菱形_有向距离场
+Ribbon Render(丝带渲染)|||Ribbon 渲染(丝带渲染)
+Rig Forward Kinematic|||绑定 Forward 运动学
+Ring|||环
+Ring_SDF|||环_有向距离场
+Ring_Tiling|||环_铺砌
+Ripple|||涟漪
+Roof_Tile|||屋顶_瓦
+Rose_Curve|||Rose_曲线工具包
+Rounded_Box_SDF|||圆角_Box_有向距离场
+Rounded_Cross_SDF|||圆角_十字_有向距离场
+Rounded_X_SDF|||圆角_X_有向距离场
+SDF_Viewer|||有向距离场_视图er
+Sample Bary-Coord|||采样 Bary-Coord
+Scale_Tile|||鳞片_瓦
+Scale_Tile_V2|||鳞片_瓦_V2
+Scatter Coordinate|||散射 坐标
+Scatter(分布点)|||散射(分布点)
+Scatter_Image|||散射_图像
+Scene Transition|||场景 Transition
+Scene_Time(Custom)|||场景_时间(Custom)
+Screen UV|||屏幕 UV坐标
+Seamless_Image|||接缝less_图像
+Segment_SDF|||弓形_有向距离场
+Self Pruning|||自 剪枝
+Sharpen Mesh(锐化网格)|||锐化 网格过滤器(锐化网格)
+Shifting Color|||Shifting 颜色
+Shrink Wrap Packaging(热收缩膜包装)|||收缩 Wrap 包aging(热收缩膜包装)
+Signed Distance Noise|||Signed 距离 噪点
+Silk|||丝绸
+Simple_Tile|||Simple_瓦
+Sinh_Fractal|||Sinh_分形
+Six_Hex_Tile|||Six_Hex_瓦
+Skeleton from Armature|||Skeleton from 骨架
+Skeleton from Edges|||Skeleton from 边缘s
+Sketch(素描)|||素描(素描)
+Skin|||皮肤
+Skin Modifier(蒙皮)|||皮肤 Modifier(蒙皮)
+Smile|||微笑
+Smooth Tesellation平滑镶嵌()|||平滑 Tesellation平滑镶嵌()
+Solidify(实体化)|||实体ify(实体化)
+Sparse Linear Solver|||稀疏 线性 求解器
+Spectral|||谱范数
+Sphere From 4 Points(四点确定球)|||球体 From 4 点s(四点确定球)
+Sphere Intersections(球体相交)|||球体 相交s(球体相交)
+Sphere Mask|||球体 遮罩
+Spherical Parameterization(球面参数化)|||球面 Parameterization(球面参数化)
+Spherical Sprial(球形螺旋)|||球面 Sprial(球形螺旋)
+Spherical to Cartesian|||球面 to 笛卡尔
+Spiral_Septagon_Fractal|||螺旋_Septagon_分形
+Spline Grammar|||样条 文法
+Spring Force|||弹簧 力
+Square|||方形
+Square_Tile|||方形_瓦
+Square_Triangle_Tile|||方形_三角形_瓦
+Stair_SDF|||Stair_有向距离场
+Star_SDF|||星形_有向距离场
+Steep Parallax Mapping|||陡峭 视差 映射
+Store Bary-Coord|||存储 Bary-Coord
+Store Neighbor Index(存储邻居编号)|||存储 Neighbor 索引(存储邻居编号)
+Stretch(拉伸)|||拉伸(拉伸)
+String Art(线条画)|||字符串 Art(线条画)
+String Art(绕线画)|||字符串 Art(绕线画)
+Stylized Dither|||风格化 抖动
+Sunset|||日落
+Surface Collision|||曲面 碰撞
+Surface Deform(表面形变)|||曲面 变形(表面形变)
+Sweep(曲线转网格)|||扫掠(曲线转网格)
+Swirl Coordinate|||Swirl 坐标
+Switch_Multi_Images|||切换_Multi_图像s
+Switch_Multi_UVs|||切换_Multi_UV坐标s
+Tangent to World|||切线 to 世界
+Tangled_Square_Tile|||Tangled_方形_瓦
+Taper(锥化)|||锥化(锥化)
+Tessellation(面镶嵌)|||镶嵌(面镶嵌)
+Texture Sample|||纹理 采样
+Tile1|||瓦1
+Tile2|||瓦2
+Tile_Generator(3x3)|||瓦_Generator(3x3)
+Tile_Generator(5x5)|||瓦_Generator(5x5)
+Tileable_Water_Caustic|||瓦able_水_Caustic
+Time Falloff(时间衰减)|||时间 Falloff(时间衰减)
+Time Switch(时间切换)|||时间 切换(时间切换)
+Time Trigger(时间有效期)|||时间 Trigger(时间有效期)
+Time_Falloff|||时间_Falloff
+Timeshift(帧偏移)|||时间shift(帧偏移)
+Toon Node|||卡通 节点
+Toon Ocean|||卡通 海洋
+Toon Shader|||卡通 着色器
+Triangle|||三角形
+Triangle(三角形)|||三角形(三角形)
+Triangle_SDF|||三角形_有向距离场
+Truchet_Tile|||特鲁谢_瓦
+Tunnel_SDF|||隧道_有向距离场
+Twilight|||黄昏
+Twilight_shifted|||黄昏_shifted
+Twist Curve(曲线扭曲)|||扭转 曲线工具包(曲线扭曲)
+Twist(扭曲)|||扭转(扭曲)
+UV Tangent(UV切向)|||UV坐标 切线(UV坐标切向)
+Uneven_Capsule_SDF|||Uneven_胶囊_有向距离场
+Vectors to Matrix|||向量s to 矩阵
+Vertices of Face(面的顶点)|||Vertices of 面(面的顶点)
+Vesica_SDF|||鱼形_有向距离场
+Vignette|||暗角
+Virtual Cube|||虚拟 立方体
+Virtual Cylinder|||虚拟 圆柱
+Virtual Plane|||虚拟 平面
+Virtual Sphere|||虚拟 球体
+Visualize Bone Weight|||Visualize 骨骼 权重
+Visualize Corner拐角可视化()|||Visualize 角点拐角可视化()
+Visualize Rig|||Visualize 绑定
+Visualize UVMap|||Visualize UV坐标映射
+Volume Path(体积内路径)|||体积 路径(体积内路径)
+Voronoi|||沃罗诺伊图
+Voronoi Fracture(沃罗诺伊破碎)|||沃罗诺伊图 Fracture(沃罗诺伊破碎)
+Voronoi Relaxation(平滑点分布)|||沃罗诺伊图 松弛(平滑点分布)
+Voronoi Star|||沃罗诺伊图 星形
+Vortex Force|||Vortex 力
+Warning Glitch|||Warning 故障
+Water|||水
+Water_Stain|||水_Stain
+Weave|||编织
+Weave Curve|||编织 曲线工具包
+Weave Curve(编织曲线)|||编织 曲线工具包(编织曲线)
+White Noise|||白 噪点
+Wire Deform(曲线形变)|||Wire 变形(曲线形变)
+Wireframe(线框)|||线框(线框)
+Wood|||木材
+World Tangent(世界切向)|||世界 切线(世界切向)
+World to Tangent|||世界 to 切线
+cDivide|||c除法
+cMultiply|||c乘法
+cSquare Root|||c方形 Root
+cTangent|||c切线
+iabs_Fractal|||iabs_分形
+iabs_Fractal_V2|||iabs_分形_V2
+is Casted to Plane|||is 释放ed to 平面

@@ -1,0 +1,44 @@
+# This is an Asset Catalog Definition file for Blender.
+#
+# Empty lines and lines starting with `#` will be ignored.
+# The first non-ignored line should be the version indicator.
+# Other lines are of the format "UUID:catalog/path/for/assets:simple catalog name"
+
+VERSION 1
+
+47ad9e8e-f29c-4f9e-be8c-90a1c4dbc607:Compositor:Compositor
+cb69a8d8-f572-4cdf-b0ba-6304cbe710d5:Compositor/Effect:Compositor-Effect
+3e5a438b-ce71-4674-b403-52c4a2b525cd:Compositor/Palette:Compositor-Palette
+8407aa22-94b9-4039-8439-54c462bdf16b:Compositor/Utilities:Compositor-Utilities
+540b2428-9f51-412d-b053-a933551db6f3:Effect:Effect
+7e4cc053-253c-4abc-b919-6b21537d2b45:Effect/Flipbook:Effect-Flipbook
+cae5d06b-b330-4d0b-8ff2-e83ca6c35c23:Effect/Slash:Effect-Slash
+9d499ac7-29a4-5fca-b747-9aecee7d86b4:Geometry Nodes:Geometry Nodes
+24e3532f-5428-590f-9db8-d1f3ae3386b4:Geometry Nodes/Curve:Geometry Nodes-Curve
+b6f3d83a-ccce-5192-b4b8-e057e3ea9aa5:Geometry Nodes/Generation:Geometry Nodes-Generation
+608dbcde-0942-5a1a-82ec-fae642291a3c:Geometry Nodes/Math:Geometry Nodes-Math
+b3fc809e-f6a4-55b8-a1ba-4180555752a1:Geometry Nodes/Mesh:Geometry Nodes-Mesh
+5577f23f-9634-5d7f-9d2f-8d0198c2a3de:Geometry Nodes/Utility:Utility
+a3f246e6-3ece-408f-9fa8-31089209414a:MFs:MFs
+1a007e23-fe94-4945-bee1-d1e6d337227c:MFs/Coordinates:MFs-Coordinates
+9f087aa3-cfd9-4f48-979b-bc508a3e2b82:MFs/Functions:MFs-Functions
+50614f8e-6a84-4fab-83b6-13c8ab9d0488:MFs/Parallax:MFs-Parallax
+2e25a517-d559-4f13-9064-4f4372c49346:MFs/cMath:MFs-cMath
+0c97b784-997f-4556-b3b0-0c7cd998a6c4:Particle System:Particle System
+3ceb4540-65f7-49b2-b20b-de6805828c95:Particle System:Particle System
+495179ab-60fa-4879-89b5-2e4532d26ea2:Particle System/Force:Particle System-Force
+bb4991e0-0c63-419e-9de2-bf1cec26bb92:Particle System/Info:Particle System-Info
+ad394f30-fa19-4bdd-a283-a82df9a52e02:Particle System/Mask:Particle System-Mask
+2f354670-d4cb-468d-9bc8-d78c56502bdb:Particle System/Particle System:Particle System-Particle System
+b43ae1c3-7feb-471f-803c-a00437a5b473:Rigging System:Rigging System
+d7972d45-e81a-45f3-b002-f9b3b1294eec:Shader:Shader
+bcca705c-8947-47b0-b359-bd7950d5e89f:Shader/Fractal:Shader-Fractal
+4e33c97f-9360-4f97-98b8-2328a6a5eb93:Shader/Image:Shader-Image
+9c52ff10-acd2-42c3-8261-16706e53434a:Shader/Materials:Shader-Materials
+f9bc149a-cf66-41c3-b979-5b27f1a0e474:Shader/Shape:Shader-Shape
+c17b6214-38e8-4fc2-8f2a-ef4b1d349190:Shader/Texture:Shader-Texture
+411c57d0-fa15-4758-86f6-f8b6eb00b744:Shader/Utility:Shader-Utility
+923f8861-6383-4811-93ba-8e2543ee7efd:Shader/平铺:Shader-平铺
+5f0a800a-e46e-437c-b223-ae22efc3e093:Shader/平铺/Tools:Shader-平铺-Tools
+2a1986ca-4ac7-480b-8316-48e010902d39:Shader/平铺/平铺纹理:Shader-平铺-平铺纹理
+98b89486-696e-4fbf-9831-96a6f1c10edb:三渲二:三渲二

@@ -1,0 +1,28 @@
+﻿# Blender backup files
+*.blend1
+*.blend2
+
+# Blender proxy/cache folders
+BL_proxy/
+blendcache/
+__pycache__/
+
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+
+# General temp
+*.tmp
+*.bak
+*~
+
+# IDE
+.vs/
+.vscode/
+.idea/
+*.swp
+*.swo
