@@ -1,5 +1,5 @@
 *.blend filter=lfs diff=lfs merge=lfs -text
 *.mp4 filter=lfs diff=lfs merge=lfs -text
 
-# GitHub LFS quota workaround for this sub-100MB asset
+# Temporary: migrate after GitHub Support frees the LFS quota
 blender/assets/GN/geometry_nodes_category_layout.blend -filter -diff -merge -text
