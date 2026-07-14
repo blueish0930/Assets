@@ -475,7 +475,7 @@ function renderAllSections(){
   sections=buildSections();
   sections.forEach(function(s){
     var h2=document.createElement('h2');h2.id='cat-'+s.id;h2.textContent=s.title;
-    var intro=document.createElement('div');intro.className='top-intro-wrap';var introText=topIntroText(s.id);intro.innerHTML=(introText?'<div class="top-intro">'+h(introText)+'</div>':'')+(isOwner?'<button class="btn btn-gh btn-sm" style="margin:0 0 10px" onclick="editTopIntro(\''+s.id+'\')">'+tr('editIntro')+'</button>':'');
+    var intro=document.createElement('div');intro.className='top-intro-wrap';intro.dataset.cat=s.id;var introText=topIntroText(s.id);intro.innerHTML=(introText?'<div class="top-intro">'+h(introText)+'</div>':'')+(isOwner?'<button class="btn btn-gh btn-sm" style="margin:0 0 10px" onclick="editTopIntro(\''+s.id+'\')">'+tr('editIntro')+'</button>':'');
     var grid=document.createElement('div');grid.className='grid';grid.dataset.cat=s.id;
     s.data.forEach(function(a){
     var card=document.createElement('div');card.className='card';card.dataset.name=a.n.toLowerCase();card.dataset.cat=s.id;card.dataset.nameFull=a.n;
@@ -552,6 +552,7 @@ bindSidebar();
 function filterByCat(){
   var customTitle=document.getElementById('activeCustomTitle');
   if(customTitle)customTitle.style.display='none';
+  document.querySelectorAll('.top-intro-wrap').forEach(function(w){w.style.display=(activeCat&&w.dataset.cat===activeCat)?'':'none'});
   if(!activeCat){
     document.querySelectorAll('.grid').forEach(function(g){g.style.display=''});
     document.querySelectorAll('h2[id^=cat-]').forEach(function(h){h.style.display=''});
