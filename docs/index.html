@@ -534,6 +534,15 @@ function openLightbox(src){
   }
   window.addEventListener('mousemove',onPanMove);
   window.addEventListener('mouseup',onPanEnd);
+  img.addEventListener('wheel',function(e){
+    e.preventDefault();e.stopPropagation();
+    var delta=-Math.sign(e.deltaY)*STEP;
+    var newScale=Math.max(MIN,Math.min(MAX,scale+delta));
+    var r=img.getBoundingClientRect();
+    var ox=(e.clientX-r.left)/r.width*100;
+    var oy=(e.clientY-r.top)/r.height*100;
+    applyZoom(newScale,ox,oy);
+  },{passive:false});
   lb._cleanup=function(){window.removeEventListener('mousemove',onPanMove);window.removeEventListener('mouseup',onPanEnd)};
   lb.querySelector('.lb-in').addEventListener('click',function(e){e.stopPropagation();applyZoom(scale+STEP)});
   lb.querySelector('.lb-out').addEventListener('click',function(e){e.stopPropagation();applyZoom(scale-STEP)});
