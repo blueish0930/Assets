@@ -26,3 +26,9 @@ $RECYCLE.BIN/
 .idea/
 *.swp
 *.swo
+
+# Wrangler local authentication and state
+.wrangler/
+
+# Local website snapshots
+/docs/index.html.backup-*

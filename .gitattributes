@@ -1,5 +1,10 @@
 *.blend filter=lfs diff=lfs merge=lfs -text
 *.mp4 filter=lfs diff=lfs merge=lfs -text
 
+# Blender remote asset library: preserve exact bytes used by SHA256 hashes.
+blender/assets/_asset-library-meta.json -text
+blender/assets/_v1/** -text
+blender/assets/**/*_thumbnails/** -text
+
 # Temporary: migrate after GitHub Support frees the LFS quota
 blender/assets/GN/geometry_nodes_category_layout.blend -filter -diff -merge -text

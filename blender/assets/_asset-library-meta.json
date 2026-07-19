@@ -1,0 +1,13 @@
+{
+  "api_versions": {
+    "v1": {
+      "url": "_v1/asset-index.json",
+      "hash": "SHA256:503cad88fd3e0b639e71ceb2d0ca29e250d8ab9808632d0dc3d53da7d65862a9"
+    }
+  },
+  "name": "Blueish Assets",
+  "contact": {
+    "name": "blueish0930",
+    "url": "https://github.com/blueish0930/Assets"
+  }
+}
