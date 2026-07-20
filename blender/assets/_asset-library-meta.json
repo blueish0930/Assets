@@ -2,7 +2,7 @@
   "api_versions": {
     "v1": {
       "url": "_v1/asset-index.json",
-      "hash": "SHA256:64c7bcffe924a8ab0ebf010cdf77abb0f88b15ec149ca8efcb004ef72b5c005b"
+      "hash": "SHA256:54A9EC08D76F04C26133396466416A368B29AE9F6498325B69A46BBD4E70972D"
     }
   },
   "name": "Blueish Assets",
