@@ -38,7 +38,7 @@ Documentation: https://blueish0930.github.io/Assets/
 在 Blender 中添加：
 
 1. Preferences → File Paths → Asset Libraries → `+` → **Add Remote Asset Library**
-2. 填入 Cloudflare 远端地址（部署后形如 `https://blueish-assets.<subdomain>.workers.dev/blender/assets`）
+2. 填入 Cloudflare 远端地址：`https://blender-assets.blueish.workers.dev`
 3. 打开 Asset Browser，即可浏览并按需下载
 
 本地重新扫描：

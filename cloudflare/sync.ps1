@@ -2,7 +2,7 @@
 # Requires: wrangler authenticated to account 6c8fcc1162bfc367e72396c3a0a3ad31
 param(
     [string]$Root = (Resolve-Path (Join-Path $PSScriptRoot "..")).Path,
-    [string]$Bucket = "blueish-assets"
+    [string]$Bucket = "blueish"
 )
 
 $ErrorActionPreference = "Stop"

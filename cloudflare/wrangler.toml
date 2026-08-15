@@ -1,13 +1,13 @@
-name = "blueish-assets"
+name = "blender-assets"
 main = "worker.js"
-compatibility_date = "2026-08-15"
+compatibility_date = "2026-07-18"
 account_id = "6c8fcc1162bfc367e72396c3a0a3ad31"
 workers_dev = true
 
 [vars]
-# Blender remote library root served at /blender/assets
-LIBRARY_PREFIX = "blender/assets"
+# Live remote library root: https://blender-assets.blueish.workers.dev
+LIBRARY_PREFIX = ""
 
 [[r2_buckets]]
 binding = "ASSETS"
-bucket_name = "blueish-assets"
+bucket_name = "blueish"
