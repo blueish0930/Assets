@@ -30,5 +30,8 @@ $RECYCLE.BIN/
 # Wrangler local authentication and state
 .wrangler/
 
+# Blender listing generator scratch files
+**/.last_modified
+
 # Local website snapshots
 /docs/index.html.backup-*

@@ -1,15 +1,22 @@
 {
   "schema_version": "1.0.0",
-  "asset_size_bytes": 432580075,
-  "asset_count": 530,
-  "file_count": 9,
+  "asset_size_bytes": 462288645,
+  "asset_count": 534,
+  "file_count": 11,
   "pages": [
     {
       "url": "_v1/assets-00000.json",
-      "hash": "SHA256:98CD9D534C59F47C2A35A73F33D9BC2ED5C18E01D428E0E3EAFBB3EE013BA189"
+      "hash": "SHA256:55051c25ac9133fdfcde4d7a1f30285955376860567eda8863ade6eb9f22abef"
     }
   ],
   "catalogs": [
+    {
+      "path": "Advanced/Nodes",
+      "uuids": [
+        "a7c780e4-726a-470c-af51-094823c0e785"
+      ],
+      "simple_name": "Advanced-Nodes"
+    },
     {
       "path": "Compositor",
       "uuids": [

@@ -29,6 +29,24 @@
 
 Documentation: https://blueish0930.github.io/Assets/
 
+## Blender Remote Asset Library（5.2+）
+
+仓库已按官方远端库格式扫描：`blender/assets/_asset-library-meta.json` + `_v1/` listing。
+
+当前 listing：**534** 个资产，**11** 个独立 `.blend` 文件。
+
+在 Blender 中添加：
+
+1. Preferences → File Paths → Asset Libraries → `+` → **Add Remote Asset Library**
+2. 填入 Cloudflare 远端地址（部署后形如 `https://blueish-assets.<subdomain>.workers.dev/blender/assets`）
+3. 打开 Asset Browser，即可浏览并按需下载
+
+本地重新扫描：
+
+```text
+blender -b -c asset_listing generate E:\Assets\blender\assets
+```
+
 Contact me:
 
 - https://space.bilibili.com/3546391456516604?spm_id_from=333.1007.0.0

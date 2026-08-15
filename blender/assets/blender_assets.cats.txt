@@ -14,6 +14,7 @@ cb69a8d8-f572-4cdf-b0ba-6304cbe710d5:Compositor/Effect:Compositor-Effect
 7e4cc053-253c-4abc-b919-6b21537d2b45:Effect/Flipbook:Effect-Flipbook
 cae5d06b-b330-4d0b-8ff2-e83ca6c35c23:Effect/Slash:Effect-Slash
 9d499ac7-29a4-5fca-b747-9aecee7d86b4:Geometry Node:Geometry Node
+a7c780e4-726a-470c-af51-094823c0e785:Advanced/Nodes:Advanced-Nodes
 24e3532f-5428-590f-9db8-d1f3ae3386b4:Geometry Node/Curve:Geometry Node-Curve
 b6f3d83a-ccce-5192-b4b8-e057e3ea9aa5:Geometry Node/Generation:Geometry Node-Generation
 608dbcde-0942-5a1a-82ec-fae642291a3c:Geometry Node/Math:Geometry Node-Math
