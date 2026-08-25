@@ -1,0 +1,18 @@
+{
+  "superhive": {
+    "ok": false,
+    "error": "not logged in"
+  },
+  "gumroad": {
+    "ok": true,
+    "steps": [
+      "name=False",
+      "price=True",
+      "desc=False",
+      "covers=False",
+      "save=False"
+    ],
+    "url": "https://gumroad.com/products/new",
+    "url_after": "https://gumroad.com/discover"
+  }
+}

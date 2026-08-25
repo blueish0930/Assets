@@ -1,0 +1,18 @@
+{
+  "ts": "2026-08-23T22:16:01 shot sh3-error: Page.screenshot: Target page, context or browser has been closed",
+  "notes": [
+    "2026-08-23T22:14:09 launch v3",
+    "2026-08-23T22:14:13 dump gr3-open https://gumroad.com/products/jkglzv/edit | Blueish Assets — Complete Node Library (534 Groups)",
+    "2026-08-23T22:14:13 description replaced",
+    "2026-08-23T22:14:21 chooser: Timeout 8000ms exceeded while waiting for event \"filechooser\"\n=========================== logs ===========================\nwaiting for event \"filechooser\"\n============================================================",
+    "2026-08-23T22:14:51 accept image: Locator.set_input_files: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"input[type='file'][accept*='image']\").first\n",
+    "2026-08-23T22:14:55 dump gr3-covers https://gumroad.com/products/jkglzv/edit | Blueish Assets — Complete Node Library (534 Groups)",
+    "2026-08-23T22:14:58 dump gr3-after-save https://gumroad.com/products/jkglzv/edit/content | Blueish Assets — Complete Node Library (534 Groups)",
+    "2026-08-23T22:15:10 dump sh3-try-0 https://superhivemarket.com/ | Superhive (formerly Blender Market) | A Unique Market for Creators that love Blender",
+    "2026-08-23T22:15:22 dump sh3-try-1 https://superhivemarket.com/login | Login - Superhive (formerly Blender Market)",
+    "2026-08-23T22:15:31 dump sh3-try-2 https://superhivemarket.com/login | Login - Superhive (formerly Blender Market)",
+    "2026-08-23T22:15:40 dump sh3-try-3 https://superhivemarket.com/ | Superhive (formerly Blender Market) | A Unique Market for Creators that love Blender",
+    "2026-08-23T22:15:52 dump sh3-try-4 https://superhivemarket.com/login | Login - Superhive (formerly Blender Market)",
+    "2026-08-23T22:16:01 shot sh3-error: Page.screenshot: Target page, context or browser has been closed"
+  ]
+}

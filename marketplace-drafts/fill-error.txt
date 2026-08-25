@@ -1,0 +1,24 @@
+Traceback (most recent call last):
+  File "E:\Assets\marketplace-drafts\fill_gumroad_covers.py", line 132, in <module>
+    main()
+    ~~~~^^
+  File "E:\Assets\marketplace-drafts\fill_gumroad_covers.py", line 127, in main
+    ctx.close()
+    ~~~~~~~~~^^
+  File "D:\Python\Lib\site-packages\playwright\sync_api\_generated.py", line 15386, in close
+    return mapping.from_maybe_impl(self._sync(self._impl_obj.close(reason=reason)))
+                                   ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python\Lib\site-packages\playwright\_impl\_sync_base.py", line 115, in _sync
+    return task.result()
+           ~~~~~~~~~~~^^
+  File "D:\Python\Lib\site-packages\playwright\_impl\_browser_context.py", line 587, in close
+    await self._channel.send("close", None, {"reason": reason})
+  File "D:\Python\Lib\site-packages\playwright\_impl\_connection.py", line 76, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "D:\Python\Lib\site-packages\playwright\_impl\_connection.py", line 632, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.TargetClosedError: : Target page, context or browser has been closed

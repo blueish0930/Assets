@@ -1,0 +1,22 @@
+{
+  "gumroad": {
+    "ok": true,
+    "steps": [
+      "type=digital",
+      "name=True",
+      "price=True",
+      "clicked_next",
+      "desc=True",
+      "covers=True",
+      "thumb=True",
+      "save=False"
+    ],
+    "customize_url": "https://gumroad.com/products/jkglzv/edit",
+    "url": "https://gumroad.com/products/jkglzv/edit"
+  },
+  "superhive": {
+    "ok": false,
+    "steps": [],
+    "error": "still not on creator form: https://superhivemarket.com/login"
+  }
+}

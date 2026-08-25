@@ -1,0 +1,32 @@
+[
+  {
+    "i": 0,
+    "accept": ".jpeg,.jpg,.png,.gif,.webp",
+    "name": "",
+    "id": "",
+    "cls": "sr-only",
+    "multiple": true,
+    "hidden": false,
+    "w": 1
+  },
+  {
+    "i": 1,
+    "accept": ".mp3,.wav,.flac,.wma,.aac,.m4a",
+    "name": "",
+    "id": "",
+    "cls": "sr-only",
+    "multiple": false,
+    "hidden": false,
+    "w": 1
+  },
+  {
+    "i": 2,
+    "accept": ".jpeg,.jpg,.png,.gif,.webp",
+    "name": "",
+    "id": "",
+    "cls": "sr-only",
+    "multiple": false,
+    "hidden": false,
+    "w": 1
+  }
+]

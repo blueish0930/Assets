@@ -35,3 +35,6 @@ $RECYCLE.BIN/
 
 # Local website snapshots
 /docs/index.html.backup-*
+
+# Playwright Chrome profile (cookies / saved logins)
+marketplace-drafts/chrome-profile/
