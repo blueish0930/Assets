@@ -1,53 +1,65 @@
-# Blueish-Assets
+# Blueish Assets
 
-🚨 警告！警告！
+**This repository no longer holds asset files.** Everything is distributed as archives on the
+release page — download the archive you need from there:
 
-⚠️ Asset Library 检测到未知资源：`blueish`，它正在偷偷占据你的资产库。
+<https://github.com/blueish0930/Assets/releases>
 
-```text
-正在尝试分析……
-……
-🦠 blueish 感染报告
-├ 传播方式：Clone Repository
-├ 感染目标：Blender Asset Library
-├ 当前状态：正在扩散至更多 Blender 工程
-├ 危险等级：SSS 级
-├ 感染症状：可能造成严重的生产力提升，引发大量 .blend 文件出现 blueish 痕迹
-└ 解决方案：点赞收藏加关注（多多转发，宣传一下~）
-```
+## Latest release: `26/07/19`
 
-该项目涵盖了 Everything，有大量的几何处理和算法实现、数学节点拓展、完整的粒子系统和绑定系统、特效与三渲二预设、着色器与合成器，具体内容如下：
+<https://github.com/blueish0930/Assets/releases/tag/26/07/19>
 
-- **几何处理**：拉普拉斯形变，ARAP形变，热力测地线，图最大独立集，图最小生成树，图着色，主曲率，网格锐化，内插面，Voronoi 破碎，网格折叠等...
-- **数学**：平行运输，悬链线，莫比乌斯变换，梯度，散度，外/内切圆/球，矩阵节点拓展，重心坐标，主成分分析等...
-- **粒子系统**：多种力场，子级诞生，曲线拖尾，粒子拖尾，碰撞响应，高度自定义的粒子系统
-- **绑定系统**：LBS，DQS，OCoR，Delta Mush 等多种蒙皮算法
-- **着色器**：分形，图片处理，SDF 形状，Simplex Noise，多种平铺图案，视差映射，法线混合，虚拟形状求交等...
-- **特效**：Flipbook 爆炸，火焰，烟雾，水花等；6 种风格化刀光拖尾
-- **三渲二**：包含多个三渲二材质预设，以及多个风格化爆炸，水龙卷，冲击波等特效
-- **合成器**：ASCII，像素排序，雨天窗户，冰霜，有序抖动，玻璃破碎，色彩预设等...
+| Archive | Size | Contents |
+| --- | --- | --- |
+| `blueish.rar` | 211 MB | The Blueish asset package: the Blender and Houdini asset libraries together with their generated thumbnails. |
+| `file_part1.rar` | 883 MB | Numbered volume 1 of the asset files. |
+| `file_part2.rar` | 448 MB | Numbered volume 2 of the asset files. |
+| `file_part3.rar` | 2.0 GB | Numbered volume 3 of the asset files. |
 
-Documentation: https://blueish0930.github.io/Assets/
+A single release asset is limited to 2 GB, which is why the files are split into numbered parts.
+Download the volumes and extract them into the same folder, in order.
 
-## Blender Remote Asset Library（5.2+）
+## Using the Blender assets
 
-仓库已按官方远端库格式扫描：`blender/assets/_asset-library-meta.json` + `_v1/` listing。
+1. Download `blueish.rar` from the release and extract it.
+2. In Blender open **Edit → Preferences → File Paths → Asset Libraries** and press `+`.
+3. Point the new library at the extracted folder.
+4. Open the Asset Browser and browse or append from there.
 
-当前 listing：**534** 个资产，**11** 个独立 `.blend` 文件。
+## Contact
 
-在 Blender 中添加：
+- Bilibili: <https://space.bilibili.com/3546391456516604>
+- X: <https://x.com/blueish0930>
 
-1. Preferences → File Paths → Asset Libraries → `+` → **Add Remote Asset Library**
-2. 填入 Cloudflare 远端地址：`https://blender-assets.blueish.workers.dev`
-3. 打开 Asset Browser，即可浏览并按需下载
+---
 
-本地重新扫描：
+# 中文
 
-```text
-blender -b -c asset_listing generate E:\Assets\blender\assets
-```
+**这个仓库已经不再存放资产文件。** 所有文件都以压缩包的形式放在 Releases 页面，按需下载：
 
-Contact me:
+<https://github.com/blueish0930/Assets/releases>
 
-- https://space.bilibili.com/3546391456516604?spm_id_from=333.1007.0.0
-- https://x.com/blueish0930
+## 最新发布：`26/07/19`
+
+<https://github.com/blueish0930/Assets/releases/tag/26/07/19>
+
+| 压缩包 | 大小 | 内容 |
+| --- | --- | --- |
+| `blueish.rar` | 211 MB | Blueish 资产包：Blender 与 Houdini 资产库，以及随之生成的缩略图。 |
+| `file_part1.rar` | 883 MB | 资产文件的分卷 1。 |
+| `file_part2.rar` | 448 MB | 资产文件的分卷 2。 |
+| `file_part3.rar` | 2.0 GB | 资产文件的分卷 3。 |
+
+单个 release 文件有 2 GB 的上限，所以文件按卷拆开。把分卷下载下来，按顺序解压到同一个文件夹。
+
+## 在 Blender 里使用
+
+1. 从 Releases 下载 `blueish.rar` 并解压。
+2. 在 Blender 里打开 **编辑 → 偏好设置 → 文件路径 → 资产库**，点 `+`。
+3. 把这个资产库指向解压出来的文件夹。
+4. 打开资产浏览器，即可浏览或追加资产。
+
+## 联系方式
+
+- B 站：<https://space.bilibili.com/3546391456516604>
+- X：<https://x.com/blueish0930>
