@@ -5,9 +5,11 @@ release page — download the archive you need from there:
 
 <https://github.com/blueish0930/Assets/releases>
 
-## Latest release: `26/07/19`
+## Latest release: **Assets**
 
 <https://github.com/blueish0930/Assets/releases/tag/26/07/19>
+
+The release is titled **Assets**; `26/07/19` is its tag, which is what the URL still shows.
 
 | Archive | Size | Contents |
 | --- | --- | --- |
@@ -40,9 +42,11 @@ files; for the node groups, `blueish.rar` is enough.
 
 <https://github.com/blueish0930/Assets/releases>
 
-## 最新发布：`26/07/19`
+## 最新发布：**Assets**
 
 <https://github.com/blueish0930/Assets/releases/tag/26/07/19>
+
+发布标题是 **Assets**，`26/07/19` 是它的标签（tag），也就是上面链接里显示的那一段。
 
 | 压缩包 | 大小 | 内容 |
 | --- | --- | --- |
